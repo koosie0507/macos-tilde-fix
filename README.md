@@ -8,13 +8,8 @@ This works only for Apple keyboards, only on Mac OSX.
 # Usage
 
 1. Clone the current repo to a location in your home folder
-
 `git clone https://github.com/koosie0507/macos-tilde-fix.git $HOME/.tilde-key-mapper`
-
 1. Make the mapping script executable
-
 `chmod 0755 $HOME/.tilde-key-mapper/remap-tilde.sh`
-
 1. Run the install script
-
 `sh $HOME/.tilde-key-mapper/install.sh`
